@@ -1,6 +1,3 @@
-/*
- * Copyright (C) 2019 Baidu, Inc. All Rights Reserved.
- */
 package com.elan.ty.coverage.redis.mock.client;
 
 import org.springframework.dao.DataAccessException;
